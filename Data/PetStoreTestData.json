@@ -1,0 +1,12 @@
+{
+  "petStoreService-baseUrl": "https://petstore.swagger.io/v2/",
+
+  "postStoreOrder": {
+    "id": 0,
+    "petId": 9223372036854772000,
+    "quantity": 2,
+    "shipDate": "2022-01-17T00:44:34.050Z",
+    "status": "placed",
+    "complete": true
+  }
+}

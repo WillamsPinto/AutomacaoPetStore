@@ -1,6 +1,45 @@
 {
   "petStoreService-baseUrl": "https://petstore.swagger.io/v2/",
 
+  "postPet": {
+    "id": 0,
+    "category": {
+      "id": 2,
+      "name": "Dog"
+    },
+    "name": "Duck",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "Small"
+      }
+    ],
+    "status": "available"
+  },
+
+  "putPet": {
+    "id": 1,
+    "category": {
+      "id": 2,
+      "name": "Dog"
+    },
+    "name": "Rex",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "Big"
+      }
+    ],
+    "status": "available"
+  },
+
+
   "postStoreOrder": {
     "id": 0,
     "petId": 9223372036854772000,

@@ -28,6 +28,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="Data\dogImg.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="Data\PetStoreTestData.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
